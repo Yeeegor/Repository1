@@ -1,0 +1,12 @@
+          ListOfGroup       Exam_A-12-01      LectExam
+Insert       +                   -               -
+Delete       +                   -               -
+Update       +                   -               +
+1            +                   -               +
+2            +                   -               +  
+3            +                   -               +
+4            +                   -               +   
+5            +                   +               -
+6            +                   +               +
+
+
