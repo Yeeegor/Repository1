@@ -1,1 +1,1 @@
-мой сайт доступен по ссылке https://yeeegor.github.io/Repository1/
+мой сайт доступен по ссылке https://yeeegor.github.io/Repository1/site/
